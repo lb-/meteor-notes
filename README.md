@@ -11,6 +11,8 @@ Notepad for Meteor packages &amp; best practices
 * `data-action="insert-thing"` is useful for working with template.events, separates out classes to be for style
 * Break functionality up into local pacakges (still testing this one out, takes a lot of work to maintain)
   * however, building out commonly solved problems into a package is SO useful eg. https://atmospherejs.com/lbee/moment-helpers
+* good article: http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
+  * Premature Optimization, Bikeshedding, Analysis Paralysis, God Class, Fear of Adding Classes, Inner-platform Effect (writing something that the OS or platform already has), Magic Numbers and Strings (unnamed variables), Management by Numbers, Useless (Poltergeist) Classes (class that just initiates another class)
 
 # Packages to try
 * [ ] https://atmospherejs.com/nicolaslopezj/roles
