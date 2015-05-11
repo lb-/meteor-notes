@@ -6,6 +6,9 @@ Notepad for Meteor packages &amp; best practices
 * testing! git! jslint!
   * Meteor .jshint file https://github.com/raix/Meteor-jshintrc/blob/master/.jshintrc
 * when submitting an issue, provide an example or a demo app, must easier for the developer
+* limit the fields sent in the subscription, start with what you need only and go from there (good for security and speed), also limit the rows (documents) sent.
+* publishing ordered does NOT mean it will be sorted on client, do this there also
+* `data-action="insert-thing"` is useful for working with template.events, separates out classes to be for style
 * Break functionality up into local pacakges (still testing this one out, takes a lot of work to maintain)
   * however, building out commonly solved problems into a package is SO useful eg. https://atmospherejs.com/lbee/moment-helpers
 
