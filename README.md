@@ -29,6 +29,8 @@ Notepad for Meteor packages &amp; best practices
   * seems easy to implement, could be really useful
 * [ ] https://atmospherejs.com/ongoworks/security
   * different approach to the allow/deny rules & security
+* [ ] https://atmospherejs.com/sewdn/collection-behaviours
+  * Lets you add common behaviours such as 'timestampable' or 'softremovable' to your collections
 
 # Other things to try
 * Meteor Typescript
