@@ -15,6 +15,9 @@ Notepad for Meteor packages &amp; best practices
 * good article: http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
   * Premature Optimization, Bikeshedding, Analysis Paralysis, God Class, Fear of Adding Classes, Inner-platform Effect (writing something that the OS or platform already has), Magic Numbers and Strings (unnamed variables), Management by Numbers, Useless (Poltergeist) Classes (class that just initiates another class)
 
+# Good Guides / Tutorials
+* http://themeteorchef.com/recipes/writing-a-package/
+
 # Packages to try
 * [ ] https://atmospherejs.com/nicolaslopezj/roles
   * new roles package, alternative approach to https://atmospherejs.com/alanning/roles
