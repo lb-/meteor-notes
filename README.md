@@ -17,6 +17,7 @@ Notepad for Meteor packages &amp; best practices
 
 # Good Guides / Tutorials
 * http://themeteorchef.com/recipes/writing-a-package/
+* Keeping the App State in the Url: https://meteorhacks.com/meteor-ui-pattern-keeping-app-state-in-the-url
 
 # Packages to try
 * [ ] https://atmospherejs.com/nicolaslopezj/roles
